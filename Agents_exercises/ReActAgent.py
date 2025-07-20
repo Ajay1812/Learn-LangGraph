@@ -80,7 +80,7 @@ def print_stream(stream):
 
 input_state = {
     "messages": [
-        HumanMessage(content="Add 50 + 40 and then multiply the result by 3 and also let me know who Nikola Tesla is in short.")
+        HumanMessage(content="Add 50 + 40 and then multiply the result by 3 and also let me know who Nikola Tesla and his Wardenclyffe tower in short")
     ]
 }
 

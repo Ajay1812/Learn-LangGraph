@@ -1,0 +1,12 @@
+Subject: Data Engineer with 1.5 Years of Experience - Python, SQL, Spark, Kafka, AWS S3
+
+Dear Akash,
+
+I am writing to express my interest in data engineering opportunities. With 1.5 years of experience, I possess a strong skill set in Python, SQL, Spark, Kafka for event streaming, and AWS S3.
+
+I am confident that my skills and experience align well with the requirements of a data engineer role. I am eager to learn more about potential openings and discuss how I can contribute to your team.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Ajay
