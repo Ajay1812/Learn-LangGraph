@@ -208,3 +208,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+chroma.db
+chroma.sqlite
+chroma.sqlite3
+*.sqlite3
+*.db
+
+*.bin
