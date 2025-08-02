@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+.chainlit
+chainlit.md
 eggs/
 .eggs/
 lib/
