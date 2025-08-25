@@ -218,3 +218,4 @@ chroma.sqlite3
 *.db
 
 *.bin.DS_Store
+db
